@@ -1,0 +1,16 @@
+{
+    "itemName": "opal",
+    "itemNameKor": "",
+    "objectName": "opal",
+    "itemIcon": {
+        "instanceID": 17240
+    },
+    "quantity": 1,
+    "durability": 1,
+    "maxdurability": -1,
+    "stackable": true,
+    "amount": 1,
+    "itemType": 1,
+    "spritePath": "Item/opal",
+    "hasInventory": false
+}

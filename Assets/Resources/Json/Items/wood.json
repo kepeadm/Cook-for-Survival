@@ -1,0 +1,14 @@
+{
+    "itemName": "wood",
+    "objectName": "wood",
+    "itemIcon": {
+        "instanceID": 16266
+    },
+    "quantity": 1,
+    "durability": -1,
+    "maxdurability": -1,
+    "stackable": true,
+    "amount": 1,
+    "itemType": 1,
+    "spritePath": "Item/wood"
+}

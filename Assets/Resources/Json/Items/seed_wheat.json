@@ -1,0 +1,16 @@
+{
+    "itemName": "seed_wheat",
+    "itemNameKor": "",
+    "objectName": "seed_wheat",
+    "itemIcon": {
+        "instanceID": 19154
+    },
+    "quantity": 1,
+    "durability": -1,
+    "maxdurability": -1,
+    "stackable": true,
+    "amount": 1,
+    "itemType": 1,
+    "spritePath": "Item/seed_wheat",
+    "hasInventory": false
+}

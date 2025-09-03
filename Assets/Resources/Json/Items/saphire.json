@@ -1,0 +1,16 @@
+{
+    "itemName": "saphire",
+    "itemNameKor": "",
+    "objectName": "saphire",
+    "itemIcon": {
+        "instanceID": 13296
+    },
+    "quantity": 1,
+    "durability": -1,
+    "maxdurability": -1,
+    "stackable": true,
+    "amount": 1,
+    "itemType": 1,
+    "spritePath": "Item/saphire",
+    "hasInventory": false
+}

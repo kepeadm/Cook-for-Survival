@@ -1,0 +1,15 @@
+{
+    "itemName": "test pot",
+    "objectName": "test pot",
+    "itemIcon": {
+        "instanceID": 12636
+    },
+    "quantity": 1,
+    "durability": -1,
+    "maxdurability": -1,
+    "stackable": false,
+    "amount": 1,
+    "itemType": 1,
+    "spritePath": "Item/milk",
+    "hasInventory": false
+}

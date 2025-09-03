@@ -1,0 +1,268 @@
+{
+    "name": "Seedshop",
+    "buyshop": [
+        {
+            "itemData": {
+                "itemName": "seed_redpepper",
+                "objectName": "seed_redpepper",
+                "itemIcon": {
+                    "instanceID": 23952
+                },
+                "quantity": 1,
+                "durability": -1,
+                "maxdurability": -1,
+                "stackable": true,
+                "amount": 1,
+                "itemType": 1,
+                "spritePath": "Item/seed_redpepper",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "gold",
+                "amount": 1
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "seed_cabbage",
+                "itemNameKor": "",
+                "objectName": "seed_cabbage",
+                "itemIcon": {
+                    "instanceID": 21318
+                },
+                "quantity": 1,
+                "durability": -1,
+                "maxdurability": -1,
+                "stackable": true,
+                "amount": 1,
+                "itemType": 1,
+                "spritePath": "Item/seed_cabbage",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "gold",
+                "amount": 1
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "seed_carrot",
+                "itemNameKor": "",
+                "objectName": "seed_carrot",
+                "itemIcon": {
+                    "instanceID": 17168
+                },
+                "quantity": 1,
+                "durability": -1,
+                "maxdurability": -1,
+                "stackable": true,
+                "amount": 1,
+                "itemType": 1,
+                "spritePath": "Item/seed_carrot",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "gold",
+                "amount": 1
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "seed_garlic",
+                "itemNameKor": "",
+                "objectName": "seed_garlic",
+                "itemIcon": {
+                    "instanceID": 16962
+                },
+                "quantity": 1,
+                "durability": -1,
+                "maxdurability": -1,
+                "stackable": true,
+                "amount": 1,
+                "itemType": 1,
+                "spritePath": "Item/seed_garlic",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "gold",
+                "amount": 1
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "seed_onion",
+                "itemNameKor": "",
+                "objectName": "seed_onion",
+                "itemIcon": {
+                    "instanceID": 18976
+                },
+                "quantity": 1,
+                "durability": -1,
+                "maxdurability": -1,
+                "stackable": true,
+                "amount": 1,
+                "itemType": 1,
+                "spritePath": "Item/seed_onion",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "gold",
+                "amount": 1
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "seed_potato",
+                "itemNameKor": "",
+                "objectName": "seed_potato",
+                "itemIcon": {
+                    "instanceID": 17612
+                },
+                "quantity": 1,
+                "durability": -1,
+                "maxdurability": -1,
+                "stackable": true,
+                "amount": 1,
+                "itemType": 1,
+                "spritePath": "Item/seed_potato",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "gold",
+                "amount": 1
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "seed_tomato",
+                "itemNameKor": "",
+                "objectName": "seed_tomato",
+                "itemIcon": {
+                    "instanceID": 16800
+                },
+                "quantity": 1,
+                "durability": -1,
+                "maxdurability": -1,
+                "stackable": true,
+                "amount": 1,
+                "itemType": 1,
+                "spritePath": "Item/seed_tomato",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "gold",
+                "amount": 1
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "seed_wheat",
+                "itemNameKor": "",
+                "objectName": "seed_wheat",
+                "itemIcon": {
+                    "instanceID": 19154
+                },
+                "quantity": 1,
+                "durability": -1,
+                "maxdurability": -1,
+                "stackable": true,
+                "amount": 1,
+                "itemType": 1,
+                "spritePath": "Item/seed_wheat",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "gold",
+                "amount": 1
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "queenbee",
+                "itemNameKor": "",
+                "objectName": "queenbee",
+                "itemIcon": {
+                    "instanceID": 17290
+                },
+                "quantity": 1,
+                "durability": 2,
+                "maxdurability": 2,
+                "stackable": true,
+                "amount": 1,
+                "itemType": 1,
+                "spritePath": "Item/queenbee",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "gold",
+                "amount": 10
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "milk",
+                "itemNameKor": "",
+                "objectName": "milk",
+                "itemIcon": {
+                    "instanceID": 17186
+                },
+                "quantity": 1,
+                "durability": 50,
+                "maxdurability": 50,
+                "stackable": true,
+                "amount": 1,
+                "itemType": 0,
+                "spritePath": "Item/milk",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "saphire",
+                "amount": 1
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "chocolate",
+                "itemNameKor": "",
+                "objectName": "chocolate",
+                "itemIcon": {
+                    "instanceID": 32514
+                },
+                "quantity": 1,
+                "durability": 100,
+                "maxdurability": 100,
+                "stackable": true,
+                "amount": 1,
+                "itemType": 0,
+                "spritePath": "Item/chocolate",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "saphire",
+                "amount": 1
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "escape_portal",
+                "itemNameKor": "",
+                "objectName": "escape_portal",
+                "itemIcon": {
+                    "instanceID": 25940
+                },
+                "quantity": 1,
+                "durability": -1,
+                "maxdurability": -1,
+                "stackable": true,
+                "amount": 1,
+                "itemType": 0,
+                "spritePath": "Item/escape_portal",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "ruby",
+                "amount": 20
+            }
+        }
+    ]
+}

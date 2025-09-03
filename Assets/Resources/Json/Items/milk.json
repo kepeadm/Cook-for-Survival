@@ -1,0 +1,16 @@
+{
+    "itemName": "milk",
+    "itemNameKor": "",
+    "objectName": "milk",
+    "itemIcon": {
+        "instanceID": 17186
+    },
+    "quantity": 1,
+    "durability": 50,
+    "maxdurability": 50,
+    "stackable": true,
+    "amount": 1,
+    "itemType": 0,
+    "spritePath": "Item/milk",
+    "hasInventory": false
+}

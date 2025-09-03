@@ -1,0 +1,14 @@
+{
+    "itemName": "axe",
+    "objectName": "axe",
+    "itemIcon": {
+        "instanceID": 12636
+    },
+    "quantity": 1,
+    "durability": 20,
+    "maxdurability": 20,
+    "stackable": false,
+    "amount": 1,
+    "itemType": 2,
+    "spritePath": "Item/axe"
+}

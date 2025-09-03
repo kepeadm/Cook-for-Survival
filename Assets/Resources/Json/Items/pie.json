@@ -1,0 +1,16 @@
+{
+    "itemName": "pie",
+    "itemNameKor": "",
+    "objectName": "pie",
+    "itemIcon": {
+        "instanceID": 29672
+    },
+    "quantity": 1,
+    "durability": 100,
+    "maxdurability": 100,
+    "stackable": true,
+    "amount": 1,
+    "itemType": 0,
+    "spritePath": "Item/pie",
+    "hasInventory": false
+}

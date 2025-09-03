@@ -1,0 +1,16 @@
+{
+    "itemName": "seed_onion",
+    "itemNameKor": "",
+    "objectName": "seed_onion",
+    "itemIcon": {
+        "instanceID": 18976
+    },
+    "quantity": 1,
+    "durability": -1,
+    "maxdurability": -1,
+    "stackable": true,
+    "amount": 1,
+    "itemType": 1,
+    "spritePath": "Item/seed_onion",
+    "hasInventory": false
+}

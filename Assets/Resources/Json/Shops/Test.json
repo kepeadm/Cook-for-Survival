@@ -1,0 +1,88 @@
+{
+    "name": "Test",
+    "buyshop": [
+        {
+            "itemData": {
+                "itemName": "seed_redpepper",
+                "objectName": "seed_redpepper",
+                "itemIcon": {
+                    "instanceID": 23952
+                },
+                "quantity": 1,
+                "durability": -1,
+                "maxdurability": -1,
+                "stackable": true,
+                "amount": 1,
+                "itemType": 1,
+                "spritePath": "Item/seed_redpepper",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "ruby",
+                "amount": 10
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "shovel",
+                "objectName": "shovel",
+                "itemIcon": {
+                    "instanceID": 16120
+                },
+                "quantity": 1,
+                "durability": 20,
+                "maxdurability": 20,
+                "stackable": false,
+                "amount": 1,
+                "itemType": 2,
+                "spritePath": "Item/shovel",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "saphire",
+                "amount": 999
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "test pot",
+                "objectName": "test pot",
+                "itemIcon": {
+                    "instanceID": 12636
+                },
+                "quantity": 1,
+                "durability": -1,
+                "maxdurability": -1,
+                "stackable": false,
+                "amount": 1,
+                "itemType": 1,
+                "spritePath": "Item/milk",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "emerald",
+                "amount": 9944
+            }
+        },
+        {
+            "itemData":{
+                "itemName": "axe",
+                "objectName": "axe",
+                "itemIcon": {
+                    "instanceID": 12636
+                },
+                "quantity": 1,
+                "durability": 20,
+                "maxdurability": 20,
+                "stackable": false,
+                "amount": 1,
+                "itemType": 2,
+                "spritePath": "Item/axe"
+            },
+            "price": {
+                "type": "opal",
+                "amount": 40
+            }
+        }
+    ]
+}

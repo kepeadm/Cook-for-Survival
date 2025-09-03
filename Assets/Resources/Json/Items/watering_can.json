@@ -1,0 +1,16 @@
+{
+    "itemName": "watering_can",
+    "itemNameKor": "",
+    "objectName": "watering_can",
+    "itemIcon": {
+        "instanceID": 21520
+    },
+    "quantity": 1,
+    "durability": 20,
+    "maxdurability": 20,
+    "stackable": false,
+    "amount": 1,
+    "itemType": 2,
+    "spritePath": "Item/water",
+    "hasInventory": false
+}

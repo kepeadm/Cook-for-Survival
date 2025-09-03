@@ -1,0 +1,16 @@
+{
+    "itemName": "key",
+    "itemNameKor": "",
+    "objectName": "key",
+    "itemIcon": {
+        "instanceID": 0
+    },
+    "quantity": 1,
+    "durability": -1,
+    "maxdurability": -1,
+    "stackable": true,
+    "amount": 1,
+    "itemType": 1,
+    "spritePath": "Item/key",
+    "hasInventory": false
+}

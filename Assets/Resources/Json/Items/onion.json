@@ -1,0 +1,16 @@
+{
+    "itemName": "onion",
+    "itemNameKor": "",
+    "objectName": "onion",
+    "itemIcon": {
+        "instanceID": 17528
+    },
+    "quantity": 1,
+    "durability": 100,
+    "maxdurability": 100,
+    "stackable": true,
+    "amount": 1,
+    "itemType": 0,
+    "spritePath": "Item/onion",
+    "hasInventory": false
+}

@@ -1,0 +1,16 @@
+{
+    "itemName": "frenchfries",
+    "itemNameKor": "",
+    "objectName": "frenchfries",
+    "itemIcon": {
+        "instanceID": 29706
+    },
+    "quantity": 1,
+    "durability": 100,
+    "maxdurability": 100,
+    "stackable": true,
+    "amount": 1,
+    "itemType": 0,
+    "spritePath": "Item/frenchfries",
+    "hasInventory": false
+}

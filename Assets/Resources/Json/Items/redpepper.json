@@ -1,0 +1,16 @@
+{
+    "itemName": "redpepper",
+    "itemNameKor": "",
+    "objectName": "redpepper",
+    "itemIcon": {
+        "instanceID": 21060
+    },
+    "quantity": 1,
+    "durability": 100,
+    "maxdurability": 100,
+    "stackable": true,
+    "amount": 1,
+    "itemType": 0,
+    "spritePath": "Item/redpepper",
+    "hasInventory": false
+}

@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 401acb4aa6b98e1b6a988eb0232d245c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1706166235819006941
+    second: player_reeling_left12
+  - first:
+      213: -5452975503813742477
+    second: player_reeling_left11
+  - first:
+      213: 2514429962685234847
+    second: player_reeling_left10
+  - first:
+      213: -9135212693579234223
+    second: player_reeling_left9
+  - first:
+      213: 3860853405633410613
+    second: player_reeling_left8
+  - first:
+      213: 8354704639921086772
+    second: player_reeling_left7
+  - first:
+      213: 5363643091339210586
+    second: player_reeling_left6
+  - first:
+      213: 4632930427238958017
+    second: player_reeling_left5
+  - first:
+      213: 1508425898085635430
+    second: player_reeling_left4
+  - first:
+      213: -5881470247728243196
+    second: player_reeling_left3
+  - first:
+      213: -8922794606708972915
+    second: player_reeling_left2
+  - first:
+      213: -2737755561791376576
+    second: player_reeling_left1
+  - first:
+      213: -8865241650903790274
+    second: player_reeling_left0
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_reeling_left12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8226359, y: 0.7266324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c478a4904f96b858868f960dbb221ce
+      internalID: -1706166235819006941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_reeling_left11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 3
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.82657075, y: 0.72309124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc7bcb3b18ab67d8bbde3d21e25c005
+      internalID: -5452975503813742477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_reeling_left10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3
+        width: 36
+        height: 39
+      alignment: 9
+      pivot: {x: 0.81870186, y: 0.7179157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2e2403aafb3eab5945fd1655996735
+      internalID: 2514429962685234847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_reeling_left9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3
+        width: 36
+        height: 39
+      alignment: 9
+      pivot: {x: 0.82263607, y: 0.7179157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d65047d929cb3d38d0e584ca9850fa
+      internalID: -9135212693579234223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_reeling_left8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 3
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.81870186, y: 0.7422878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be5530f8521a27cbaf22af7ad1896cf
+      internalID: 3860853405633410613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_reeling_left7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 3
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.8254015, y: 0.72154766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878c3f6ac26bcd13b8e1b6f5d632cbfe
+      internalID: 8354704639921086772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_reeling_left6
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 3
+        width: 38
+        height: 40
+      alignment: 9
+      pivot: {x: 0.83174855, y: 0.72309124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae68437d6f72d830a8af1140e6618ba0
+      internalID: 5363643091339210586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_reeling_left5
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.83413774, y: 0.74787915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502c8c97d58e0131f978c589c59fd925
+      internalID: 4632930427238958017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_reeling_left4
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8434906, y: 0.74787915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1ca7d621e9cb9f58896a584f6cc483
+      internalID: 1508425898085635430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_reeling_left3
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 3
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.836409, y: 0.74787915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5728380b723de9f92e40f2daaf1217
+      internalID: -5881470247728243196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_reeling_left2
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 3
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8377701, y: 0.74433804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd4d91e4e81476efac0e6eed1774e09
+      internalID: -8922794606708972915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_reeling_left1
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 3
+        width: 38
+        height: 40
+      alignment: 9
+      pivot: {x: 0.81683993, y: 0.72309124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bdc1b933349edd5952e7348fee190f
+      internalID: -2737755561791376576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_reeling_left0
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 3
+        width: 37
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8215728, y: 0.72309124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb8c2d8091bb4a11896fa8a284b637d
+      internalID: -8865241650903790274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c20c07d683beb839bbdbe9bacaaa23f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+{
+    "itemName": "pudding",
+    "itemNameKor": "",
+    "objectName": "pudding",
+    "itemIcon": {
+        "instanceID": 29680
+    },
+    "quantity": 1,
+    "durability": 100,
+    "maxdurability": 100,
+    "stackable": true,
+    "amount": 1,
+    "itemType": 0,
+    "spritePath": "Item/pudding",
+    "hasInventory": false
+}

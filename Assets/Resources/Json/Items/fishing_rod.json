@@ -1,0 +1,16 @@
+{
+    "itemName": "fishing_rod",
+    "itemNameKor": "",
+    "objectName": "fishing_rod",
+    "itemIcon": {
+        "instanceID": 17416
+    },
+    "quantity": 1,
+    "durability": 20,
+    "maxdurability": 20,
+    "stackable": false,
+    "amount": 1,
+    "itemType": 2,
+    "spritePath": "Item/rod",
+    "hasInventory": false
+}

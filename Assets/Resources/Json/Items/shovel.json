@@ -1,0 +1,15 @@
+{
+    "itemName": "shovel",
+    "objectName": "shovel",
+    "itemIcon": {
+        "instanceID": 16120
+    },
+    "quantity": 1,
+    "durability": 20,
+    "maxdurability": 20,
+    "stackable": false,
+    "amount": 1,
+    "itemType": 2,
+    "spritePath": "Item/shovel",
+    "hasInventory": false
+}

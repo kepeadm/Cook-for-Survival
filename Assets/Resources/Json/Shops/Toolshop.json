@@ -1,0 +1,224 @@
+{
+    "name": "Toolshop",
+    "buyshop": [
+        {
+            "itemData": {
+                "itemName": "axe",
+                "objectName": "axe",
+                "itemIcon": {
+                    "instanceID": 12636
+                },
+                "quantity": 1,
+                "durability": 20,
+                "maxdurability": 20,
+                "stackable": false,
+                "amount": 1,
+                "itemType": 2,
+                "spritePath": "Item/axe"
+            },
+            "price": {
+                "type": "gold",
+                "amount": 5
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "shovel",
+                "objectName": "shovel",
+                "itemIcon": {
+                    "instanceID": 16120
+                },
+                "quantity": 1,
+                "durability": 20,
+                "maxdurability": 20,
+                "stackable": false,
+                "amount": 1,
+                "itemType": 2,
+                "spritePath": "Item/shovel",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "gold",
+                "amount": 5
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "watering_can",
+                "itemNameKor": "",
+                "objectName": "watering_can",
+                "itemIcon": {
+                    "instanceID": 21520
+                },
+                "quantity": 1,
+                "durability": 20,
+                "maxdurability": 20,
+                "stackable": false,
+                "amount": 1,
+                "itemType": 2,
+                "spritePath": "Item/water",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "emerald",
+                "amount": 5
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "sword",
+                "itemNameKor": "",
+                "objectName": "sword",
+                "itemIcon": {
+                    "instanceID": 19246
+                },
+                "quantity": 1,
+                "durability": 20,
+                "maxdurability": 20,
+                "stackable": false,
+                "amount": 1,
+                "itemType": 2,
+                "spritePath": "Item/sword",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "gold",
+                "amount": 5
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "fishing_rod",
+                "itemNameKor": "",
+                "objectName": "fishing_rod",
+                "itemIcon": {
+                    "instanceID": 17416
+                },
+                "quantity": 1,
+                "durability": 20,
+                "maxdurability": 20,
+                "stackable": false,
+                "amount": 1,
+                "itemType": 2,
+                "spritePath": "Item/rod",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "gold",
+                "amount": 5
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "pot",
+                "itemNameKor": "",
+                "objectName": "pot",
+                "itemIcon": {
+                    "instanceID": 17764
+                },
+                "quantity": 1,
+                "durability": -1,
+                "maxdurability": -1,
+                "stackable": false,
+                "amount": 1,
+                "itemType": 3,
+                "spritePath": "Item/pot",
+                "hasInventory": true
+            },
+            "price": {
+                "type": "gold",
+                "amount": 5
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "oven_tray",
+                "itemNameKor": "",
+                "objectName": "oven_tray",
+                "itemIcon": {
+                    "instanceID": 18714
+                },
+                "quantity": 1,
+                "durability": -1,
+                "maxdurability": -1,
+                "stackable": false,
+                "amount": 1,
+                "itemType": 3,
+                "spritePath": "Item/tray",
+                "hasInventory": true
+            },
+            "price": {
+                "type": "gold",
+                "amount": 5
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "cutting_board",
+                "itemNameKor": "",
+                "objectName": "cutting_board",
+                "itemIcon": {
+                    "instanceID": 19150
+                },
+                "quantity": 1,
+                "durability": -1,
+                "maxdurability": -1,
+                "stackable": false,
+                "amount": 1,
+                "itemType": 3,
+                "spritePath": "Item/cuttingboard",
+                "hasInventory": true
+            },
+            "price": {
+                "type": "gold",
+                "amount": 5
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "fripan",
+                "itemNameKor": "",
+                "objectName": "fripan",
+                "itemIcon": {
+                    "instanceID": 16734
+                },
+                "quantity": 1,
+                "durability": -1,
+                "maxdurability": -1,
+                "stackable": false,
+                "amount": 1,
+                "itemType": 3,
+                "spritePath": "Item/fripan",
+                "hasInventory": true
+            },
+            "price": {
+                "type": "gold",
+                "amount": 5
+            }
+        },
+        {
+            "itemData": {
+                "itemName": "key",
+                "itemNameKor": "",
+                "objectName": "key",
+                "itemIcon": {
+                    "instanceID": 0
+                },
+                "quantity": 1,
+                "durability": -1,
+                "maxdurability": -1,
+                "stackable": true,
+                "amount": 1,
+                "itemType": 1,
+                "spritePath": "Item/key",
+                "hasInventory": false
+            },
+            "price": {
+                "type": "emerald",
+                "amount": 5
+            }
+        }
+
+
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "itemName": "queenbee",
+    "itemNameKor": "",
+    "objectName": "queenbee",
+    "itemIcon": {
+        "instanceID": 17290
+    },
+    "quantity": 1,
+    "durability": 2,
+    "maxdurability": 2,
+    "stackable": true,
+    "amount": 1,
+    "itemType": 1,
+    "spritePath": "Item/queenbee",
+    "hasInventory": false
+}

@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: ca28a0e333611b62d8d9a00eb0519375
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7093528793660955550
+    second: spr_dig_left11
+  - first:
+      213: 7488911427772317054
+    second: spr_dig_left10
+  - first:
+      213: -1346297611919433415
+    second: spr_dig_left9
+  - first:
+      213: -5342535189501395123
+    second: spr_dig_left8
+  - first:
+      213: 6000547922717314291
+    second: spr_dig_left2
+  - first:
+      213: -1310836547151736382
+    second: spr_dig_left1
+  - first:
+      213: 5674647218970401883
+    second: spr_dig_left12
+  - first:
+      213: 4106932927223802679
+    second: spr_dig_left7
+  - first:
+      213: 6619349236498804534
+    second: spr_dig_left6
+  - first:
+      213: -8533906586711759556
+    second: spr_dig_left5
+  - first:
+      213: -1203546551109420079
+    second: spr_dig_left4
+  - first:
+      213: 189985232233483275
+    second: spr_dig_left3
+  - first:
+      213: -6333731064008182202
+    second: spr_dig_left0
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_dig_left11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 25
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5109863, y: 0.37414846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3521e011bddded1f0bdd314d8352a585
+      internalID: -7093528793660955550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_dig_left10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 25
+        width: 22
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5139826, y: 0.34618106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae837a9300a009e3fbca62476243cddf
+      internalID: 7488911427772317054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_dig_left9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 25
+        width: 20
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6692001, y: 0.29490831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aef120c9b7c365d8fa0b36efe71814
+      internalID: -1346297611919433415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_dig_left8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 25
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.74611086, y: 0.34618106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f073cb6e36269008b6a4fe95e8675a
+      internalID: -5342535189501395123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_dig_left2
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 24
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.72373825, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1ee31a53bd95bb5b3b1f70411f4e61
+      internalID: 6000547922717314291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_dig_left1
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 25
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.6538222, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9118040e2e47530a1909fb71bbdce8
+      internalID: -1310836547151736382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_dig_left12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 25
+        width: 29
+        height: 18
+      alignment: 9
+      pivot: {x: 0.48939106, y: 0.44872728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df49c6ca06d8345cb05e1f6b4b48ec8
+      internalID: 5674647218970401883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_dig_left7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 25
+        width: 24
+        height: 18
+      alignment: 9
+      pivot: {x: 0.71791077, y: 0.43163618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca23d0065429c2938d1fcf02adb3b1c
+      internalID: 4106932927223802679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_dig_left6
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 24
+        width: 25
+        height: 19
+      alignment: 9
+      pivot: {x: 0.7338037, y: 0.4838094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a0fa859ae7f938c9c4fc4fa41adc8a
+      internalID: 6619349236498804534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_dig_left5
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 24
+        width: 25
+        height: 19
+      alignment: 9
+      pivot: {x: 0.73380613, y: 0.48380902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2b1188a4ff300fab4e42e754dd62bb
+      internalID: -8533906586711759556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_dig_left4
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 24
+        width: 24
+        height: 18
+      alignment: 9
+      pivot: {x: 0.7307307, y: 0.4658182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf744aebdc602b155bd3ee808550fa58
+      internalID: -1203546551109420079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_dig_left3
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 24
+        width: 23
+        height: 19
+      alignment: 9
+      pivot: {x: 0.70063317, y: 0.48380902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b928a91020cde8dd9f4591a2fb1dec5
+      internalID: 189985232233483275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_dig_left0
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 25
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.63672554, y: 0.44872728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c60540a204a02b19e1ee9b5d0b8ed8
+      internalID: -6333731064008182202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 085e17361618bc26798220e69051a9cb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

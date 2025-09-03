@@ -1,0 +1,16 @@
+{
+    "itemName": "trash",
+    "itemNameKor": "",
+    "objectName": "trash",
+    "itemIcon": {
+        "instanceID": 16800
+    },
+    "quantity": 1,
+    "durability": -1,
+    "maxdurability": -1,
+    "stackable": true,
+    "amount": 1,
+    "itemType": 1,
+    "spritePath": "Item/trash",
+    "hasInventory": false
+}

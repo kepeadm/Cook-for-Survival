@@ -1,0 +1,16 @@
+{
+    "itemName": "sword",
+    "itemNameKor": "",
+    "objectName": "sword",
+    "itemIcon": {
+        "instanceID": 19246
+    },
+    "quantity": 1,
+    "durability": 20,
+    "maxdurability": 20,
+    "stackable": false,
+    "amount": 1,
+    "itemType": 2,
+    "spritePath": "Item/sword",
+    "hasInventory": false
+}

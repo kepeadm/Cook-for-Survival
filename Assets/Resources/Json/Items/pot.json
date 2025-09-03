@@ -1,0 +1,16 @@
+{
+    "itemName": "pot",
+    "itemNameKor": "",
+    "objectName": "pot",
+    "itemIcon": {
+        "instanceID": 17764
+    },
+    "quantity": 1,
+    "durability": -1,
+    "maxdurability": -1,
+    "stackable": false,
+    "amount": 1,
+    "itemType": 3,
+    "spritePath": "Item/pot",
+    "hasInventory": true
+}

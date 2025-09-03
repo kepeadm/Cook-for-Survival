@@ -1,0 +1,16 @@
+{
+    "itemName": "nacho",
+    "itemNameKor": "",
+    "objectName": "nacho",
+    "itemIcon": {
+        "instanceID": 29700
+    },
+    "quantity": 1,
+    "durability": 100,
+    "maxdurability": 100,
+    "stackable": true,
+    "amount": 1,
+    "itemType": 0,
+    "spritePath": "Item/nacho",
+    "hasInventory": false
+}

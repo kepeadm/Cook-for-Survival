@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 5608d193d77392b2b9d13186a8513daa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2343382836434239971
+    second: player_sword_left9
+  - first:
+      213: 7885251757137132282
+    second: player_sword_left8
+  - first:
+      213: 5498839588593120908
+    second: player_sword_left7
+  - first:
+      213: 5291364864516747803
+    second: player_sword_left6
+  - first:
+      213: 7867318049610240560
+    second: player_sword_left5
+  - first:
+      213: -6426731645095991804
+    second: player_sword_left4
+  - first:
+      213: -7673575783609232986
+    second: player_sword_left3
+  - first:
+      213: -1282517037288852284
+    second: player_sword_left2
+  - first:
+      213: 5302010368324959583
+    second: player_sword_left1
+  - first:
+      213: -7228642550758327523
+    second: player_sword_left_10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_sword_left9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 25
+        width: 17
+        height: 19
+      alignment: 9
+      pivot: {x: 0.21799043, y: 0.36810383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd6c90a461c617359190da384a111ec
+      internalID: -2343382836434239971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_sword_left8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 25
+        width: 21
+        height: 18
+      alignment: 9
+      pivot: {x: 0.51556253, y: 0.4273616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f53ad8ea2bf3c0586ddd2bcc95854f
+      internalID: 7885251757137132282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_sword_left7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 24
+        width: 47
+        height: 25
+      alignment: 9
+      pivot: {x: 0.84310067, y: 0.29951775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fb093616bdbc2938e5efec968ee58f
+      internalID: 5498839588593120908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_sword_left6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 24
+        width: 46
+        height: 23
+      alignment: 9
+      pivot: {x: 0.80555457, y: 0.30103377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05f4a16184a8dbc7b228afd1d460515
+      internalID: 5291364864516747803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_sword_left5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 24
+        width: 43
+        height: 31
+      alignment: 9
+      pivot: {x: 0.79393184, y: 0.22936298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267fa171ca5a8e91cb78dc788bd09655
+      internalID: 7867318049610240560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_sword_left4
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 25
+        width: 39
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5167612, y: 0.21530397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091480598535199c1bbdc822556159f3
+      internalID: -6426731645095991804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_sword_left3
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 25
+        width: 27
+        height: 17
+      alignment: 9
+      pivot: {x: 0.15294732, y: 0.39104238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4d648e5315e0ba6b04d1fee74cda87
+      internalID: -7673575783609232986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_sword_left2
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 25
+        width: 28
+        height: 19
+      alignment: 9
+      pivot: {x: 0.16145107, y: 0.31075758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe4296a7e42ccf7895c7da78807f4c6
+      internalID: -1282517037288852284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_sword_left1
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 25
+        width: 24
+        height: 22
+      alignment: 9
+      pivot: {x: 0.19582367, y: 0.30684766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e1e985692eb6646841452843ff8859
+      internalID: 5302010368324959583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_sword_left_10
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 25
+        width: 17
+        height: 19
+      alignment: 9
+      pivot: {x: 0.20516789, y: 0.36236915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e6d4d38744b242f969bf60ba8b854d
+      internalID: -7228642550758327523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 938b79b0a65f6b02e8de7a23e394c761
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

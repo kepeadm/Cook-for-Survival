@@ -1,0 +1,16 @@
+{
+    "itemName": "cheesecake",
+    "itemNameKor": "",
+    "objectName": "cheesecake",
+    "itemIcon": {
+        "instanceID": 29686
+    },
+    "quantity": 1,
+    "durability": 100,
+    "maxdurability": 100,
+    "stackable": true,
+    "amount": 1,
+    "itemType": 0,
+    "spritePath": "Item/cheesecake",
+    "hasInventory": false
+}

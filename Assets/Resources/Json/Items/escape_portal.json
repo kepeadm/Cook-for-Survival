@@ -1,0 +1,16 @@
+{
+    "itemName": "escape_portal",
+    "itemNameKor": "",
+    "objectName": "escape_portal",
+    "itemIcon": {
+        "instanceID": 25940
+    },
+    "quantity": 1,
+    "durability": -1,
+    "maxdurability": -1,
+    "stackable": true,
+    "amount": 1,
+    "itemType": 0,
+    "spritePath": "Item/escape_portal",
+    "hasInventory": false
+}

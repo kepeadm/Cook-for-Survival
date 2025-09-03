@@ -1,0 +1,16 @@
+{
+    "itemName": "bacon",
+    "itemNameKor": "",
+    "objectName": "bacon",
+    "itemIcon": {
+        "instanceID": 29674
+    },
+    "quantity": 1,
+    "durability": 100,
+    "maxdurability": 100,
+    "stackable": true,
+    "amount": 1,
+    "itemType": 0,
+    "spritePath": "Item/bacon",
+    "hasInventory": false
+}

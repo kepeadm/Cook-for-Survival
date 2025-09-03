@@ -1,0 +1,1566 @@
+{
+    "recipe": [
+        {
+            "name": "pie",
+            "tool": "oven_tray",
+            "type": [
+                "빵",
+                "디저트"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "milk",
+                "honey"
+            ],
+            "materials_data": [
+                2,
+                1,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 9
+                },
+                {
+                    "type": "emerald",
+                    "amount": 3
+                },
+                {
+                    "type": "ruby",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "name": "bread",
+            "tool": "oven_tray",
+            "type": [
+                "빵"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour"
+            ],
+            "materials_data": [
+                3
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 4
+                },
+                {
+                    "type": "emerald",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "name": "bread",
+            "tool": "oven_tray",
+            "type": [
+                "빵"
+            ],
+            "progress": 60.0,
+            "materials_key": [
+                "flour"
+            ],
+            "materials_data": [
+                4
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 4
+                },
+                {
+                    "type": "emerald",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "name": "burrito",
+            "tool": "cutting_board",
+            "type": [
+                "빵",
+                "육식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "cabbage",
+                "meat",
+                "onion"
+            ],
+            "materials_data": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 3
+                },
+                {
+                    "type": "emerald",
+                    "amount": 1
+                },
+                {
+                    "type": "saphire",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "name": "burrito",
+            "tool": "cutting_board",
+            "type": [
+                "빵",
+                "육식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "cabbage",
+                "meat",
+                "tomato"
+            ],
+            "materials_data": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 3
+                },
+                {
+                    "type": "emerald",
+                    "amount": 1
+                },
+                {
+                    "type": "saphire",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "name": "burrito",
+            "tool": "cutting_board",
+            "type": [
+                "빵",
+                "육식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "tomato",
+                "meat",
+                "onion"
+            ],
+            "materials_data": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 3
+                },
+                {
+                    "type": "emerald",
+                    "amount": 1
+                },
+                {
+                    "type": "saphire",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "name": "hamburger",
+            "tool": "fripan",
+            "type": [
+                "빵",
+                "육식",
+                "발효"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "bread",
+                "milk",
+                "meat"
+            ],
+            "materials_data": [
+                1,
+                1,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 6
+                },
+                {
+                    "type": "emerald",
+                    "amount": 4
+                },
+                {
+                    "type": "saphire",
+                    "amount": 1
+                },
+                {
+                    "type": "ruby",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "name": "cheesecake",
+            "tool": "oven_tray",
+            "type": [
+                "빵",
+                "디저트",
+                "발효"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "milk"
+            ],
+            "materials_data": [
+                2,
+                2
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 6
+                },
+                {
+                    "type": "emerald",
+                    "amount": 2
+                },
+                {
+                    "type": "ruby",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "donut",
+            "tool": "oven_tray",
+            "type": [
+                "빵",
+                "디저트"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "honey"
+            ],
+            "materials_data": [
+                2,
+                2
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 12
+                },
+                {
+                    "type": "emerald",
+                    "amount": 5
+                }
+            ]
+        },
+        {
+            "name": "friedegg",
+            "tool": "fripan",
+            "type": [
+                "에피타이저",
+                "채식"
+            ],
+            "progress": 20.0,
+            "materials_key": [
+                "egg"
+            ],
+            "materials_data": [
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 1
+                },
+                {
+                    "type": "saphire",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "name": "garlicbread",
+            "tool": "oven_tray",
+            "type": [
+                "에피타이저",
+                "디저트",
+                "채식",
+                "빵"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "garlic"
+            ],
+            "materials_data": [
+                2,
+                2
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 4
+                },
+                {
+                    "type": "emerald",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "garlicbread",
+            "tool": "oven_tray",
+            "type": [
+                "에피타이저",
+                "디저트",
+                "채식",
+                "빵"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "garlic"
+            ],
+            "materials_data": [
+                1,
+                3
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 4
+                },
+                {
+                    "type": "emerald",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "garlicbread",
+            "tool": "oven_tray",
+            "type": [
+                "에피타이저",
+                "디저트",
+                "채식",
+                "빵"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "garlic"
+            ],
+            "materials_data": [
+                3,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 4
+                },
+                {
+                    "type": "emerald",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "meatball",
+            "tool": "fripan",
+            "type": [
+                "육식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "meat",
+                "tomato",
+                "garlic"
+            ],
+            "materials_data": [
+                1,
+                2,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 2
+                },
+                {
+                    "type": "saphire",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "meatball",
+            "tool": "fripan",
+            "type": [
+                "육식"
+            ],
+            "progress": 60.0,
+            "materials_key": [
+                "meat",
+                "tomato"
+            ],
+            "materials_data": [
+                2,
+                2
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 2
+                },
+                {
+                    "type": "saphire",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "ramen",
+            "tool": "pot",
+            "type": [
+                "면",
+                "채식",
+                "에피타이저"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "garlic",
+                "redpepper",
+                "egg"
+            ],
+            "materials_data": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 3
+                },
+                {
+                    "type": "saphire",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "name": "ramen",
+            "tool": "pot",
+            "type": [
+                "면",
+                "채식",
+                "에피타이저"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "garlic",
+                "egg"
+            ],
+            "materials_data": [
+                1,
+                2,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 3
+                },
+                {
+                    "type": "saphire",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "name": "ramen",
+            "tool": "pot",
+            "type": [
+                "면",
+                "채식",
+                "에피타이저"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "redpepper",
+                "egg"
+            ],
+            "materials_data": [
+                1,
+                2,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 3
+                },
+                {
+                    "type": "saphire",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "name": "sandwich",
+            "tool": "cutting_board",
+            "type": [
+                "생선",
+                "육식",
+                "에피타이저"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "bread",
+                "tomato",
+                "cabbage",
+                "fish"
+            ],
+            "materials_data": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 6
+                },
+                {
+                    "type": "emerald",
+                    "amount": 4
+                },
+                {
+                    "type": "saphire",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "name": "sandwich",
+            "tool": "cutting_board",
+            "type": [
+                "생선",
+                "육식",
+                "에피타이저"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "bread",
+                "tomato",
+                "cabbage",
+                "meat"
+            ],
+            "materials_data": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 6
+                },
+                {
+                    "type": "emerald",
+                    "amount": 4
+                },
+                {
+                    "type": "saphire",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "name": "spaghetti",
+            "tool": "fripan",
+            "type": [
+                "면",
+                "채식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "tomato"
+            ],
+            "materials_data": [
+                2,
+                2
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 4
+                },
+                {
+                    "type": "emerald",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "spaghetti",
+            "tool": "fripan",
+            "type": [
+                "면",
+                "채식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "tomato"
+            ],
+            "materials_data": [
+                1,
+                3
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 4
+                },
+                {
+                    "type": "emerald",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "spaghetti",
+            "tool": "fripan",
+            "type": [
+                "면",
+                "채식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "tomato"
+            ],
+            "materials_data": [
+                3,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 4
+                },
+                {
+                    "type": "emerald",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "steak",
+            "tool": "fripan",
+            "type": [
+                "에피타이저",
+                "육식"
+            ],
+            "progress": 50.0,
+            "materials_key": [
+                "meat"
+            ],
+            "materials_data": [
+                4
+            ],
+            "price": [
+                {
+                    "type": "saphire",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "name": "taco",
+            "tool": "cutting_board",
+            "type": [
+                "에피타이저",
+                "육식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "meat",
+                "flour",
+                "onion",
+                "tomato"
+            ],
+            "materials_data": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 3
+                },
+                {
+                    "type": "emerald",
+                    "amount": 1
+                },
+                {
+                    "type": "saphire",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "name": "waffle",
+            "tool": "fripan",
+            "type": [
+                "디저트",
+                "빵",
+                "채식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "milk",
+                "honey"
+            ],
+            "materials_data": [
+                1,
+                2,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 12
+                },
+                {
+                    "type": "emerald",
+                    "amount": 4
+                },
+                {
+                    "type": "ruby",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "name": "waffle",
+            "tool": "fripan",
+            "type": [
+                "디저트",
+                "빵",
+                "채식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "milk",
+                "honey"
+            ],
+            "materials_data": [
+                1,
+                1,
+                2
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 12
+                },
+                {
+                    "type": "emerald",
+                    "amount": 4
+                },
+                {
+                    "type": "ruby",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "name": "pizza",
+            "tool": "oven_tray",
+            "type": [
+                "빵",
+                "채식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "tomato"
+            ],
+            "materials_data": [
+                2,
+                2
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 4
+                },
+                {
+                    "type": "emerald",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "potatochip",
+            "tool": "oven_tray",
+            "type": [
+                "디저트",
+                "채식",
+                "에피타이저"
+            ],
+            "progress": 50.0,
+            "materials_key": [
+                "potato",
+                "flour"
+            ],
+            "materials_data": [
+                3,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 4
+                },
+                {
+                    "type": "emerald",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "potatochip",
+            "tool": "oven_tray",
+            "type": [
+                "디저트",
+                "채식",
+                "에피타이저"
+            ],
+            "progress": 50.0,
+            "materials_key": [
+                "potato",
+                "flour"
+            ],
+            "materials_data": [
+                2,
+                2
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 4
+                },
+                {
+                    "type": "emerald",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "cookie",
+            "tool": "oven_tray",
+            "type": [
+                "빵",
+                "디저트",
+                "에피타이저"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "chocolate",
+                "milk",
+                "honey"
+            ],
+            "materials_data": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 8
+                },
+                {
+                    "type": "emerald",
+                    "amount": 3
+                },
+                {
+                    "type": "ruby",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "eggtart",
+            "tool": "oven_tray",
+            "type": [
+                "빵",
+                "에피타이저",
+                "디저트",
+                "채식"
+            ],
+            "progress": 50.0,
+            "materials_key": [
+                "flour",
+                "egg",
+                "milk"
+            ],
+            "materials_data": [
+                1,
+                2,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 3
+                },
+                {
+                    "type": "emerald",
+                    "amount": 3
+                },
+                {
+                    "type": "saphire",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "pancake",
+            "tool": "fripan",
+            "type": [
+                "빵",
+                "디저트",
+                "에피타이저"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "honey"
+            ],
+            "materials_data": [
+                2,
+                2
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 12
+                },
+                {
+                    "type": "emerald",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "name": "dumpling",
+            "tool": "pot",
+            "type": [
+                "에피타이저",
+                "육식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "meat",
+                "onion"
+            ],
+            "materials_data": [
+                2,
+                1,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 4
+                },
+                {
+                    "type": "emerald",
+                    "amount": 1
+                },
+                {
+                    "type": "saphire",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "name": "dumpling",
+            "tool": "pot",
+            "type": [
+                "에피타이저",
+                "육식"
+            ],
+            "progress": 50.0,
+            "materials_key": [
+                "flour",
+                "meat",
+                "onion"
+            ],
+            "materials_data": [
+                1,
+                2,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 4
+                },
+                {
+                    "type": "emerald",
+                    "amount": 1
+                },
+                {
+                    "type": "saphire",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "name": "dumpling",
+            "tool": "pot",
+            "type": [
+                "에피타이저",
+                "육식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "meat",
+                "onion"
+            ],
+            "materials_data": [
+                1,
+                1,
+                2
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 4
+                },
+                {
+                    "type": "emerald",
+                    "amount": 1
+                },
+                {
+                    "type": "saphire",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "name": "frenchfries",
+            "tool": "pot",
+            "type": [
+                "에피타이저",
+                "채식",
+                "디저트"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "potato"
+            ],
+            "materials_data": [
+                2,
+                2
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 4
+                },
+                {
+                    "type": "emerald",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "macaroncheese",
+            "tool": "fripan",
+            "type": [
+                "에피타이저",
+                "채식",
+                "디저트",
+                "발효"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "milk"
+            ],
+            "materials_data": [
+                1,
+                3
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount":7 
+                },
+                {
+                    "type": "emerald",
+                    "amount": 1
+                },
+                {
+                    "type": "ruby",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "name": "eggsalad",
+            "tool": "fripan",
+            "type": [
+                "에피타이저",
+                "채식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "egg",
+                "carrot",
+                "onion"
+            ],
+            "materials_data": [
+                2,
+                1,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 2
+                },
+                {
+                    "type": "saphire",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "eggsalad",
+            "tool": "fripan",
+            "type": [
+                "에피타이저",
+                "채식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "egg",
+                "carrot"
+            ],
+            "materials_data": [
+                2,
+                2
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 2
+                },
+                {
+                    "type": "saphire",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "eggsalad",
+            "tool": "fripan",
+            "type": [
+                "에피타이저",
+                "채식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "egg",
+                "onion"
+            ],
+            "materials_data": [
+                2,
+                2
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 2
+                },
+                {
+                    "type": "saphire",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "salmon",
+            "tool": "cutting_board",
+            "type": [
+                "생선",
+                "에피타이저"
+            ],
+            "progress": 30.0,
+            "materials_key": [
+                "fish"
+            ],
+            "materials_data": [
+                3
+            ],
+            "price": [
+                {
+                    "type": "saphire",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "name": "sushi",
+            "tool": "cutting_board",
+            "type": [
+                "생선"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "fish",
+                "flour"
+            ],
+            "materials_data": [
+                2,
+                2
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 2
+                },
+                {
+                    "type": "emerald",
+                    "amount": 2
+                },
+                {
+                    "type": "saphire",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "hotdog",
+            "tool": "cutting_board",
+            "type": [
+                "육식",
+                "디저트",
+                "빵"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "meat"
+            ],
+            "materials_data": [
+                2,
+                2
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 2
+                },
+                {
+                    "type": "emerald",
+                    "amount": 2
+                },
+                {
+                    "type": "saphire",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "bacon",
+            "tool": "fripan",
+            "type": [
+                "육식",
+                "에피타이저"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "meat",
+                "garlic",
+                "onion"
+            ],
+            "materials_data": [
+                2,
+                1,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 2
+                },
+                {
+                    "type": "saphire",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "cheesepuff",
+            "tool": "fripan",
+            "type": [
+                "발효",
+                "에피타이저",
+                "채식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "milk",
+                "flour"
+            ],
+            "materials_data": [
+                2,
+                2
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 6
+                },
+                {
+                    "type": "emerald",
+                    "amount": 2
+                },
+                {
+                    "type": "ruby",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "icecream",
+            "tool": "pot",
+            "type": [
+                "디저트",
+                "채식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "milk",
+                "honey"
+            ],
+            "materials_data": [
+                2,
+                2
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 14
+                },
+                {
+                    "type": "emerald",
+                    "amount": 4
+                },
+                {
+                    "type": "ruby",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "chocolatecake",
+            "tool": "oven_tray",
+            "type": [
+                "디저트",
+                "빵"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "flour",
+                "milk",
+                "chocolate"
+            ],
+            "materials_data": [
+                2,
+                1,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 6
+                },
+                {
+                    "type": "emerald",
+                    "amount": 2
+                },
+                {
+                    "type": "ruby",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "chocolatecake",
+            "tool": "oven_tray",
+            "type": [
+                "디저트",
+                "빵"
+            ],
+            "progress": 40.0,
+            "materials_key": [
+                "flour",
+                "milk",
+                "chocolate"
+            ],
+            "materials_data": [
+                1,
+                1,
+                2
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 6
+                },
+                {
+                    "type": "emerald",
+                    "amount": 2
+                },
+                {
+                    "type": "ruby",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "name": "omlet",
+            "tool": "fripan",
+            "type": [
+                "채식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "egg",
+                "carrot"
+            ],
+            "materials_data": [
+                3,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 1
+                },
+                {
+                    "type": "saphire",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "name": "omlet",
+            "tool": "fripan",
+            "type": [
+                "채식"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "egg",
+                "onion"
+            ],
+            "materials_data": [
+                3,
+                1
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 1
+                },
+                {
+                    "type": "saphire",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "name": "yogurt",
+            "tool": "pot",
+            "type": [
+                "발효",
+                "에피타이저",
+                "디저트"
+            ],
+            "progress": 100.0,
+            "materials_key": [
+                "milk"
+            ],
+            "materials_data": [
+                4
+            ],
+            "price": [
+                {
+                    "type": "gold",
+                    "amount": 8
+                },
+                {
+                    "type": "ruby",
+                    "amount": 4
+                }
+            ]
+        }
+    ]
+}
